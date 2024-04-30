@@ -1,5 +1,7 @@
 ## world-wise project
 
+Click here (https://the-world-wide.netlify.app/) to visit the demo.
+
 ### Description:
 
 World-Wise is an interactive travel journal application designed to empower users to capture and relive their global adventures. Built with React and leveraging CSS Modules for modular styling, it offers a user-friendly experience for documenting trips across the world.
@@ -21,7 +23,7 @@ Technology Stack:
 - Frontend: React
 - Styling: CSS Modules
 - State Management: React Context
-- # Routing: React Router
+- Routing: React Router
 
 * **Interactive Map**: A central map component serves as the foundation for trip visualization. Users can seamlessly add points of interest (POIs) to specific locations on the map.
 * **Rich Note-Taking**: Each POI allows users to create detailed notes about their experiences, including text, images, and potentially even short videos. This fosters personalized
